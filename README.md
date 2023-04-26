@@ -9,18 +9,23 @@ The proposed objectives of the project were successfully achieved. The various d
 
 ![Feasible Design Region](img/untitled.svg)
 Figure 14 Wing Loading, Disc Loading vs Power Loading plot depicting feasible design region for complete Tilt-Rotor VTOL UAV
+<br>
 
 ![Airfoils considered for main wing cross-section](img/Picture6.png)
 Figure 15 Aerofoils considered for main wing cross section
+<br>
 
 ![Coefficient of Lift (CL) vs Angle of Attack (alpha) plot for different Aerofoils at Reynolds number, Re = 570,000](img/Picture7.png)
 Figure 16 Coefficient of Lift (CL) vs Angle of Attack (alpha) plot for different Aerofoils at Reynolds number, Re = 570,000
+<br>
 
 ![S1223 Aerofoil with flap at 75% chord length in "down" position](img/Picture8.png)
 Figure 21 S1223 Aerofoil with flap at 75% chord length in "down" position
+<br>
 
 ![S1223 Aerofoil with flap at 75% chord length in "up" position](img/Picture9.png)
 Figure 22  S1223 Aerofoil with flap at 75% chord length in "up" position
+<br>
 
 ![Different Orthonormal Projected Views and Perspective view of the designed UAV](img/Picture10.png)
 Figure 28 Different Orthonormal Projected Views and Perspective view of the designed UAV
