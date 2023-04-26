@@ -10,15 +10,4 @@ The proposed objectives of the project were successfully achieved. The various d
 ![Feasible Design Region](img/untitled.svg)
 Figure 14 Wing Loading, Disc Loading vs Power Loading plot depicting feasible design region for complete Tilt-Rotor VTOL UAV
 
-Design Parameters as found from the preliminary design analysis are listed below: <br>
-Parameter:	Value	[Units] <br>
-All Up Weight:	245.25	[N] <br>
-Wing Loading:	211.2	[N/m^2] <br>
-Disc Loading:	191.5	[N/m^2] <br>
-Power Loading:	38.8	[N/hp] <br>
-Wing Area:	1.102872063	[m^2] <br>
-Rotor Disc Area:	1.280678851	[m^2] <br>
-Engine Power:	6.320876289	[hp] <br>
-Aspect Ratio:	7	<br>
-Span:	2.778507592	[m] <br>
-Mean Chord	0.396929656	[m] <br>
+![Airfoils considered for main wing cross-section](img/)
