@@ -32,7 +32,7 @@ Figure 28 Different Orthonormal Projected Views and Perspective view of the desi
 
 ![Distribution of Lift over the main wing and the elevator surfaces for stream velocity, v = 15.64 m/s, and angle of attack, alpha = 2.0 deg](img/Picture11.png)
 Figure 30 Distribution of Lift over the main wing and the elevator surfaces for stream velocity, v = 15.64 m/s, and angle of attack, alpha = 2.0 deg
-
 <br>
+
 ![Surface streamlines depicting velocity around the UAV](img/Picture12.png)
 Figure 42 Surface streamlines depicting velocity around the UAV
